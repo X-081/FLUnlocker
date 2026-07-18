@@ -6,3 +6,5 @@
 程序会在C:\Program Files\FLPath.txt暂时储存FLStudio的可执行文件的路径。
 
 只支持Windows系统！
+
+已停止维护
